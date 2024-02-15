@@ -1,6 +1,6 @@
 Exercício proposto na aula de Javascript da Alpha EdTech
 
-Faça uma página que contenha um input e um botão “adicionar”, e embaixo disso uma <ul> inicialmente vazia.
+Faça uma página que contenha um input e um botão “adicionar”, e embaixo disso uma "<ul>" inicialmente vazia.
 
 Ao digitar uma tarefa (ex: “Lavar a Louça”) no input e clicar no botão, a tarefa é adicionada à lista.
 
