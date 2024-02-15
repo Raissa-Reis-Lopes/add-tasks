@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    text-align: center;
+    margin: 50px;
+}
+
+input{
+    margin-top:30px;
+    padding: 5px 10px;
+    outline: none;
+    font-size: 1rem;
+    background-color:rgb(255, 226, 231);
+}
+
+button{
+    padding: 5px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius:20px;
+    transition: all 100ms ease;
+    background-color: pink;
+    color:rgb(2, 0, 90);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: -webkit-center;
+}
+
+li {
+    margin: 5px;
+    width:fit-content;
+}
+
+li::marker{
+    content: '★ ';  
+    color: pink; 
+}
